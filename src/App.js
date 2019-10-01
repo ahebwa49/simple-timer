@@ -44,7 +44,7 @@ class App extends React.Component {
         <br />
         <div>
           <button onClick={this.props.onStart}>start</button>
-          <button>stop</button>
+          {/* <button>stop</button> */}
         </div>
       </div>
     );
